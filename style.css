@@ -15,7 +15,7 @@ body{
 .info-panel {
     box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
     border-radius: 12px;
-    margin-top: -85px;
+    margin-top: -50px;
     background-color: white;
     padding: 30px;
 }
@@ -165,10 +165,6 @@ body{
     .testimonial h5{
         font-size: 32px;
     }
-
-.visimisi{
-    margin-top: ;
-}
 
 .card{
   background-color:white;
